@@ -44,8 +44,8 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 ## Guides
 *Guides for developers or designer start their studies this wonderful technology.*
-* [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/):metal:
-* [A visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+* [X] [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/):metal:
+* [X] [A visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 * [flexbox (pt-br)](http://desenvolvimentoparaweb.com/css/flexbox/)
 * [Dive into flexbox](http://bocoup.com/weblog/dive-into-flexbox/)
 * [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
