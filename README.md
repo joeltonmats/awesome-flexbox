@@ -23,10 +23,6 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Tools](#tools)
 * [Libraries and Frameworks](#libraries-and-frameworks)
 * [Featured Projects](#featured-projects)
-* [Courses](#courses)
-* [Who to Follow](#who-to-follow)
-* [Contributing](#contributing)
-* [Licence](#licence)
 
 ## W3C Specification
 *The specification describes a CSS box model optimized for user interface design.*
@@ -44,16 +40,8 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 ## Guides
 *Guides for developers or designer start their studies this wonderful technology.*
-* [X] [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/):metal:
-* [X] [A visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
-* [X] [flexbox (pt-br)](http://desenvolvimentoparaweb.com/css/flexbox/)
 * [Dive into flexbox](http://bocoup.com/weblog/dive-into-flexbox/)
-* [X] [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
-* [X] [Reference of flexbox](http://tympanus.net/codrops/css_reference/flexbox/)
 * [The Flexbox Reading List: Techniques and Tools](https://www.smashingmagazine.com/author/cosima-mielke/)
-* [X] [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
-* [What IS Flexbox?](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef)
-* [Webflow Flexbox](https://flexbox.webflow.com/)
 
 ## Cross Browser
 *Tips and tricks for your projects work anywhere :D*
@@ -134,20 +122,6 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [RWD flexbox](http://zomigi.com/blog/rwd-flexbox/)
 * [CSS Layout: from Table to Flexbox](https://speakerdeck.com/diogomoretti/css-layout-from-table-to-flexbox)
 
-## Tools
-*Have a little help to create their projects :D*
-* [Build with Flexbox](http://flexbox.buildwithreact.com/)
-* [CSS flexbox please](http://demo.agektmr.com/flexbox/)
-* [CSS Flexbox snippets for Atom](https://github.com/brenopolanski/css-flexbox-atom-snippets)
-* [CSS Flexbox snippets for Sublime Text 2/3](https://github.com/brenopolanski/css-flexbox-sublime-snippets)
-* [Fibonacci](https://github.com/maxsteenbergen/Fibonacci)
-* [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
-* [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
-* [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
-* [Flexplorer](http://bennettfeely.com/flexplorer/)
-* [Flexyboxes](http://the-echoplex.net/flexyboxes/)
-* [Test CSS Flexbox Rules Live](http://flexbox.help/)
-* [Try Flexbox](https://zyxneo.github.io/flexbox/try-flexbox)
 
 ## Libraries and Frameworks
 *A list of incredible libraries based on flexbox.*
@@ -182,26 +156,3 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Visualizing Flexbox](http://codepen.io/paultrone/pen/xwxNmQ?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_6) - A neat little CodePen Demo to play around with Flex properties.
 * [ZEEF CSS Flexbox](https://css-flexbox.zeef.com/afonso.pacifer) - The awesome flexbox on zeef.:metal:
 * [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies) - A game for learning CSS flexbox.
-
-## Courses
-* [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout?utm_source=Responsive+Design+Weekly&utm_campaign=e4dbc18ebc-Responsive_Design_Weekly_184&utm_medium=email&utm_term=0_df65b6d7c8-e4dbc18ebc-59080665&goal=0_df65b6d7c8-e4dbc18ebc-59080665) - treehouse
-
-## Who to Follow
-*People who talk about it.*
-* Afonso Pacifer [@afonsopacifer](https://twitter.com/afonsopacifer)
-* Brad Frost [@brad_frost](https://twitter.com/brad_frost)
-* Chris Coyier [@chriscoyier](https://twitter.com/chriscoyier)
-* Lea Verou [@LeaVerou](https://twitter.com/leaverou)
-* Mickley Gillenwater [@zomigi](https://twitter.com/zomigi)
-* Nicolas [@necolas](https://twitter.com/necolas)
-* Philip Walton [@philwalton](https://twitter.com/philwalton)
-* Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
-* Richard Herrera [@doctyper](https://twitter.com/doctyper)
-* Sara Soueidan [@SaraSoueidan](https://twitter.com/SaraSoueidan)
-* Sean Fioritto [@sfioritto](https://twitter.com/sfioritto)
-
-## Contributing
-Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-flexbox/blob/master/contributing.md).
-
-## License
-[MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) © [Afonso Pacifer](https://afonsopacifer.github.io/)
